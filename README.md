@@ -2,7 +2,7 @@
 This is a simple HTML-based form designed for managing shipment details. The form collects key information such as Shipment ID, Shipment Date, Description,etc.
 # 📦 Shipment Management Form
 
-![Shipment Management](https://github.com/aarshx05/L2E_JPDB/blob/main/ss1-l2e.jpg)  
+![Shipment Management](https://github.com/rahul07890-dev/JPDB/blob/main/Screenshot%202025-04-05%20020909.png)  
 *A simple and efficient way to manage shipments*
 
 ---
@@ -16,7 +16,7 @@ This project is a **Shipment Management Form** powered by **JsonPowerDB (JPDB)**
 ## 🎨 Illustrations
 
 Here’s a glimpse of how the shipment form looks:
-  
+  ![Shipment Management](https://github.com/rahul07890-dev/JPDB/blob/main/Screenshot%202025-04-05%20020909.png)
 *Visual representation of the shipment management form*
 
 ---
