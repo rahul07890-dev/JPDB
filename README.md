@@ -3,7 +3,6 @@ This is a simple HTML-based form designed for managing shipment details. The for
 # 📦 Shipment Management Form
 
 ![Shipment Management](https://github.com/rahul07890-dev/JPDB/blob/main/Screenshot%202025-04-05%20020909.png)  
-*A simple and efficient way to manage shipments*
 
 ---
 
@@ -17,7 +16,6 @@ This project is a **Shipment Management Form** powered by **JsonPowerDB (JPDB)**
 
 Here’s a glimpse of how the shipment form looks:
   ![Shipment Management](https://github.com/rahul07890-dev/JPDB/blob/main/Screenshot%202025-04-05%20020909.png)
-*Visual representation of the shipment management form*
 
 ---
 
@@ -30,12 +28,6 @@ JsonPowerDB is an innovative NoSQL database designed to provide fast, secure, an
 - **Low-Latency Transactions**: Ideal for applications where speed and efficiency are paramount.
 - **JSON-Based Storage**: Ensures a structured, readable, and organized way to store data.
 
----
-
-## 📜 Release History
-
-- **v1.0.0**: Initial release featuring shipment form management and integration with JsonPowerDB.
-  
 ---
 
 ## 🌐 Table of Contents
@@ -60,12 +52,6 @@ JsonPowerDB is an innovative NoSQL database designed to provide fast, secure, an
 
 ---
 
-## 📦 Examples of Use
-
-- **Scenario 1**: A logistics company checks shipment details using the shipment number. If it doesn’t exist, they input new shipment details and save them to the database.
-- **Scenario 2**: A user updates an existing shipment's destination and shipping date using the update functionality.
-
----
 
 ## 📊 Project Status
 
