@@ -69,7 +69,6 @@ JsonPowerDB is an innovative NoSQL database designed to provide fast, secure, an
 
 ## 📊 Project Status
 
-![Project Status](https://via.placeholder.com/100x40?text=Stable)  
 The project is currently **stable** in version 1.0.0. Future plans may include advanced features such as:
 - User authentication for secure access
 - Real-time shipment tracking
